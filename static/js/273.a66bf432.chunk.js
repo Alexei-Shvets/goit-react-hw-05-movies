@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgoit_react_hw_05_movies=self.webpackChunkgoit_react_hw_05_movies||[]).push([[273],{273:function(t,_,e){e.r(_),e.d(_,{default:function(){return s}});var r=e(184),s=function(){return(0,r.jsx)("div",{children:(0,r.jsx)("img",{src:"https://raruswebsite.s3.amazonaws.com/wp-content/uploads/2019/07/10145847/BOOST_BLOG_IMAGE_RB_SET_10_404_PAGE_1200x628px_v1_3-1024x536.jpg",alt:"404 Error"})})}}}]);
+//# sourceMappingURL=273.a66bf432.chunk.js.map
